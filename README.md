@@ -4,34 +4,28 @@
 
 ## Kullanılan Teknolojiler
 
-- **django**: Kullanıcı arayüzleri oluşturmak için bir JavaScript kütüphanesi
-- **NestJS**: Sunucu tarafı uygulamalar için ilerleyici bir Node.js çerçevesi.
+- **django**: Backend işlemleri için kullanılan Python kütüphanesi
+- **PureJS**: Frontendin backend ile iletişimi ve dinamik işlemler için kullanılan script dili.
 - **PostgreSQL**: Açık kaynaklı nesne ilişkisel veritabanı sistemi
 - **NGINX**: Açık kaynaklı HTTP sunucusu ve ters proxy
 
 ## Dağıtım
 
-- `make` komutunu çalıştırın
-- [http://localhost:3000/](http://localhost:3000/) adresine gidin
+Proje server üzerinde çalışmaktadır peng.com.tr adresinden erişebilirsiniz
 
 ## Araçlar
 
 Proje, aşağıdaki araçlar kullanılarak geliştirilmiştir.
 
-### Organizasyon
-
-- Notion
-- Figma
-
 ### Front-end
 
-- django Bootstrap
-- django Router
-- django Contextify
+- Bootstrap
+- HTML5 + CSS3
+- PureJS
 
 ### Back-end
 
-- Prisma
-- PassportJS
+-Django
+-RestAPI
 
 ve daha fazlası...
